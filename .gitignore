@@ -1,0 +1,17 @@
+# 运行期数据（面板默认写入 %LOCALAPPDATA%\UninstallPanel，若在仓库目录内运行则忽略）
+backups/
+jobs/
+logs/
+quarantine/
+panel.info.json
+selftest.txt
+_live.txt
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地临时产物
+processed_image_*.png
+*.zip
