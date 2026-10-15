@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="windows-uninstall-panel"></p>
+
 # 完全卸载面板（Windows）
 
 [![Platform](https://img.shields.io/badge/platform-Windows%207%20SP1%2B-blue)](#兼容性)
